@@ -3,7 +3,7 @@
 This script will replace certain text in all files found in a directory. It will overwrite the original files.
 
 Example of calling script
-.\
+.\replaceTextInAllFIles.ps1 .\filesToReplaceTextIn
 
 #>
 
